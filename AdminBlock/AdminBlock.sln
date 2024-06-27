@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminBlock", "AdminBlock.csproj", "{1755F98B-AF9B-4BD3-BF68-0B8B2F3194CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1755F98B-AF9B-4BD3-BF68-0B8B2F3194CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1755F98B-AF9B-4BD3-BF68-0B8B2F3194CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1755F98B-AF9B-4BD3-BF68-0B8B2F3194CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1755F98B-AF9B-4BD3-BF68-0B8B2F3194CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1A6E3E-01DB-450F-B5BC-2A5D15D28A7C}
+	EndGlobalSection
+EndGlobal
