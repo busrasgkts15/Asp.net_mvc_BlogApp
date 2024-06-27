@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdminBlock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44c6c5e2c30a946f4078676007e79abebd556bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0988b90784251c759fe175d7984b47ab1c040955")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdminBlock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdminBlock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

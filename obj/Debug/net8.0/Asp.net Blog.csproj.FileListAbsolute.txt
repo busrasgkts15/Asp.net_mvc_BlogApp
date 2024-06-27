@@ -29,3 +29,4 @@ C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.pdb
 C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.genruntimeconfig.cache
 C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\ref\Asp.net Blog.dll
 C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.sourcelink.json
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.csproj.AssemblyReference.cache
