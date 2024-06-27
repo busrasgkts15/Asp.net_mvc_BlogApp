@@ -7,11 +7,40 @@ namespace AdminBlock.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly BlogContext _context;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, BlogContext context)
     {
         _logger = logger;
+        _context = context;
     }
+
+    public async Task<IActionResult> AddCategory(Category category)
+    {
+        await _context.AddAsync(category);
+        await _context.SaveChangesAsync();
+
+        return RedirectToAction(nameof(Category));
+
+    }
+
+
+    public IActionResult Category()
+    {
+        // buraya bir liste göndermem gerektiği için liste oluşturuyoruz.
+        List<Category> list = _context.Category.ToList();
+        // Ardında bu listeyi sayfamıza gönderiyoruz.
+        return View(list);
+    }
+
+    public async Task<IActionResult> DeleteCategory(int? Id)
+    {
+        Category category = await _context.Category.FindAsync(Id);
+        _context.Remove(category);
+        await _context.SaveChangesAsync();
+        return RedirectToAction(nameof(Category));
+    }
+
 
     public IActionResult Index()
     {

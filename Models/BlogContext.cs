@@ -1,7 +1,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 
-namespace AdminBlock.Models
+namespace Asp.net_Blog.Models
 {
     public class BlogContext : DbContext
     {

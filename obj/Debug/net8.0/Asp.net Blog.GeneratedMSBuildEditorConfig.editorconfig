@@ -18,12 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Asp.net Blog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/Asp.net Blog/AdminBlock/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QWRtaW5CbG9ja1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+[C:/Users/User/Desktop/Asp.net Blog/AdminBlock/Views/Home/Author.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5CbG9ja1xWaWV3c1xIb21lXEF1dGhvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Asp.net Blog/AdminBlock/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QWRtaW5CbG9ja1xWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+[C:/Users/User/Desktop/Asp.net Blog/AdminBlock/Views/Home/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5CbG9ja1xWaWV3c1xIb21lXENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Asp.net Blog/AdminBlock/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5CbG9ja1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/Desktop/Asp.net Blog/AdminBlock/Views/Shared/Error.cshtml]

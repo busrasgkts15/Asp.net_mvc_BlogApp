@@ -1,6 +1,6 @@
 using System;
 
-namespace AdminBlock.Models
+namespace Asp.net_Blog.Models
 {
     public class Category
     {

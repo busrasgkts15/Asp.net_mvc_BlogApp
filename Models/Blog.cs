@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel;
 
-namespace AdminBlock.Models
+namespace Asp.net_Blog.Models
 {
     public class Blog
     {
