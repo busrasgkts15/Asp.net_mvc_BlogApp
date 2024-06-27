@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\Asp.net Blog.staticwebassets.runtime.json
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\Asp.net Blog.exe
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\Asp.net Blog.deps.json
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\Asp.net Blog.runtimeconfig.json
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\Asp.net Blog.dll
+C:\Users\User\Desktop\Asp.net Blog\bin\Debug\net8.0\Asp.net Blog.pdb
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.AssemblyInfo.cs
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\staticwebassets\msbuild.Asp.net Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\staticwebassets\msbuild.build.Asp.net Blog.props
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net Blog.props
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asp.net Blog.props
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\scopedcss\bundle\Asp.net Blog.styles.css
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\scopedcss\projectbundle\Asp.net Blog.bundle.scp.css
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.dll
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\refint\Asp.net Blog.dll
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.pdb
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\Asp.net Blog.genruntimeconfig.cache
+C:\Users\User\Desktop\Asp.net Blog\obj\Debug\net8.0\ref\Asp.net Blog.dll
