@@ -41,6 +41,49 @@ public class HomeController : Controller
         return View(list);
     }
 
+
+    // Buraya bir yazar nesnesi oluşturuyoruz.
+    public IActionResult Author()
+    {
+        // buraya bir liste göndermem gerektiği için liste oluşturuyoruz.
+        List<Author> list = _context.Author.ToList();
+        // Ardında bu listeyi sayfamıza gönderiyoruz.
+        return View(list);
+    }
+
+    public async Task<IActionResult> AddAuthor(Author author)
+    {
+        if (author.Id == 0)
+        {
+            await _context.AddAsync(author);
+        }
+        else
+        {
+            _context.Update(author);
+        }
+
+        await _context.SaveChangesAsync();
+
+        return RedirectToAction(nameof(Author));
+
+    }
+
+    public async Task<IActionResult> AuthorDetails(int Id)
+    {
+        var author = await _context.Author.FindAsync(Id);
+        return Json(author);
+    }
+
+
+    public async Task<IActionResult> DeleteAuthor(int? Id)
+    {
+        Author author = await _context.Author.FindAsync(Id);
+        _context.Remove(author);
+        await _context.SaveChangesAsync();
+        return RedirectToAction(nameof(Author));
+    }
+
+
     public async Task<IActionResult> DeleteCategory(int? Id)
     {
         Category category = await _context.Category.FindAsync(Id);
