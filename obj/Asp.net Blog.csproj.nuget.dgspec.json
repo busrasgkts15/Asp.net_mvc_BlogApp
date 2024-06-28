@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Asp.net Blog\\Asp.net Blog.csproj": {}
+    "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\Asp.net Blog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Asp.net Blog\\Asp.net Blog.csproj": {
+    "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\Asp.net Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Asp.net Blog\\Asp.net Blog.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\Asp.net Blog.csproj",
         "projectName": "Asp.net Blog",
-        "projectPath": "C:\\Users\\User\\Desktop\\Asp.net Blog\\Asp.net Blog.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\Asp.net Blog.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Asp.net Blog\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
