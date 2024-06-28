@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj": {}
+    "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj": {
+    "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj",
         "projectName": "AdminBlock",
-        "projectPath": "C:\\Users\\User\\Desktop\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\AdminBlock\\AdminBlock.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Asp.net Blog\\AdminBlock\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Asp.net mvc Proje\\Asp.net Blog\\AdminBlock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
