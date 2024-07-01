@@ -1,0 +1,68 @@
+<form method="post" id="form">
+    <div class="form-group">
+        <input type="text" class="form-control" id="title" placeholder="Title">
+    </div>
+    <pre></pre>
+    <div class="form-group">
+        <input type="text" class="form-control" id="subtitle" placeholder="Subtitle">
+    </div>
+    <pre></pre>
+
+    <div id="summernote">
+    </div>
+    <pre></pre>
+
+    @* dosyayı seçeceğimiz alanı belirticez *@
+    <div class="form-group">
+        <input type="file" class="form-control" id="ImagePath">
+    </div>
+    <pre></pre>
+
+    @Html.DropDownList("Categories", null, "Bir kategori seçiniz.", new { @class = "form - control" })
+    <br />
+    <pre></pre>
+
+    <div class="btn-group-toggle">
+        <button type="button" onclick="Save()" class="btn btn-primary">
+            Kaydet
+        </button>
+    </div>
+
+</form>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#summernote').summernote();
+        });
+
+        function Save() {
+            var title = document.getElementById("title");
+            var subtitle = document.getElementById("subtitle");
+            var category = document.getElementById("Categories");
+
+            // contentimizi de alıcaz hazır olduğu için bellirli bir alış şekli var mı bakıyoruz
+            var content = $('#summernote').summernote('code');
+            var form = document.getElementById("form");
+
+            var formData = new FormData(form);
+            formData.append("title", title.value);
+            formData.append("subtitle", subtitle.value);
+            formData.append("content", content);
+            formData.append("categoryid", category.value);
+
+
+            var url = '/Blog/Save';
+
+            fetch(url, {
+                method: 'POST',
+                body: formData
+
+            }).then(res => res.json())
+                .then(result => {
+                    alert("Blok kaydedildi.");
+                })
+        }
+    </script>
+}
